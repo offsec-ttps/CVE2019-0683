@@ -15,11 +15,11 @@ Remote Privilege Escalation
 
 ## Technologies Affected
 ```
-    Microsoft Windows 7 for 32-bit Systems SP1
-    Microsoft Windows 7 for x64-based Systems SP1
-    Microsoft Windows Server 2008 R2 for Itanium-based Systems SP1
-    Microsoft Windows Server 2008 R2 for x64-based Systems SP1
-    Microsoft Windows Server 2008 for 32-bit Systems SP2
-    Microsoft Windows Server 2008 for Itanium-based Systems SP2
-    Microsoft Windows Server 2008 for x64-based Systems SP2
+Microsoft Windows 7 for 32-bit Systems SP1
+Microsoft Windows 7 for x64-based Systems SP1
+Microsoft Windows Server 2008 R2 for Itanium-based Systems SP1
+Microsoft Windows Server 2008 R2 for x64-based Systems SP1
+Microsoft Windows Server 2008 for 32-bit Systems SP2
+Microsoft Windows Server 2008 for Itanium-based Systems SP2
+Microsoft Windows Server 2008 for x64-based Systems SP2
 ```
